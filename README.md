@@ -2,4 +2,4 @@
 API de estudos com NODE e Typescript
 
 ## Disponível em ##
-https://github.com/dennerevaldt/node-api-ts
+https://node-api-ts.herokuapp.com/
