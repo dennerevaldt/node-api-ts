@@ -1,0 +1,10 @@
+{
+  "version": "0.0.1",
+  "name": "Attach",
+  "type": "node",
+  "request": "attach",
+  "sourceMaps": true,
+  "outDir": "${workspaceRoot}",
+  "localRoot": "${workspaceRoot}",
+  "diagnosticLogging": true
+}
